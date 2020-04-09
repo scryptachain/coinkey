@@ -1,6 +1,6 @@
 {
-  "name": "coinkey",
-  "version": "3.0.0",
+  "name": "@scrypta/coinkey",
+  "version": "3.0.1",
   "description": "JavaScript component for private keys, public keys, and addresess for crypto currencies such as Bitcoin, Litecoin, and Dogecoin",
   "keywords": [
     "cryptography",
@@ -21,13 +21,13 @@
     "standard": "*"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/coinkey",
+    "url": "https://github.com/scryptachain/coinkey",
     "type": "git"
   },
   "main": "./lib/coinkey.js",
   "dependencies": {
     "coinstring": "^2.0.0",
-    "eckey": "^1.0.0",
+    "@scrypta/eckey": "^1.0.1",
     "inherits": "^2.0.1",
     "secure-random": "^1.0.0"
   },
