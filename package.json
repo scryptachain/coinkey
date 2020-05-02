@@ -1,6 +1,6 @@
 {
   "name": "@scrypta/coinkey",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "JavaScript component for private keys, public keys, and addresess for crypto currencies such as Bitcoin, Litecoin, and Dogecoin",
   "keywords": [
     "cryptography",
